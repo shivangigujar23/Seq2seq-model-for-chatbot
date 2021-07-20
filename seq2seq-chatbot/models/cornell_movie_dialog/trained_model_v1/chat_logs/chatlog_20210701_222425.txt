@@ -1,0 +1,15 @@
+You: hi
+ChatBot: hi.
+
+You: how are you
+ChatBot: nick. I am all right. what do you want to know?
+
+You: which is your favourite movie
+ChatBot: oh yes? what is the use?
+
+You: just like that
+ChatBot: oh yes?
+
+You: yes
+ChatBot: how do you know?
+
