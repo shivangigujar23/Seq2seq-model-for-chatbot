@@ -1,6 +1,0 @@
-You: hi
-ChatBot: hi
-
-You: how are you
-ChatBot: fine
-
